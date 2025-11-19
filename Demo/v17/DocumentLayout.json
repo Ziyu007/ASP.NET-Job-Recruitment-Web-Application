@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\application\\_applcationquestionanswerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\application\\_applcationquestionanswerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\models\\application view model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\models\\application view model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\models\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\models\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__TARUMT_SEM_4_AMIT2014__WEB_AND_MOBILE_SYSTEMS_ASSIGNMENT_WEB_FINAL_CHECKUP__2__WEB_FINAL_CHECKUP_ASSIGNMENT_DEMO_DB.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\NotificationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\ProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\applications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\applications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\jobdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\jobdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\controllers\\jobsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\jobsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\jobseeker\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\jobseeker\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\jobseekeractions\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\jobseekeractions\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\applications\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\applications\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__TARUMT_SEM_4_AMIT2014__WEB_AND_MOBILE_SYSTEMS_ASSIGNMENT_WEB_FINAL_CHECKUP__2__WEB_FINAL_CHECKUP_ASSIGNMENT_DEMO_DB.MDF/True/SqlTable/dbo.Jobs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\job\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\job\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\views\\job\\_joblisttablepv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\views\\job\\_joblisttablepv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|c:\\users\\czy05\\onedrive - tunku abdul rahman university college\\assignment\\y2s1\\assignment 2209 0744\\assignment\\demo\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C1F077-6D9E-4EA9-90CB-7F0ADF4E1D2F}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:30:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__TARUMT_SEM_4_AMIT2014__WEB_AND_MOBILE_SYSTEMS_ASSIGNMENT_WEB_FINAL_CHECKUP__2__WEB_FINAL_CHECKUP_ASSIGNMENT_DEMO_DB.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__TARUMT_SEM_4_AMIT2014__WEB_AND_MOBILE_SYSTEMS_ASSIGNMENT_WEB_FINAL_CHECKUP__2__WEB_FINAL_CHECKUP_ASSIGNMENT_DEMO_DB.MDF/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-21T22:53:42.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ApplcationQuestionAnswerPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Application\\_ApplcationQuestionAnswerPartialView.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Application\\_ApplcationQuestionAnswerPartialView.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Application\\_ApplcationQuestionAnswerPartialView.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Application\\_ApplcationQuestionAnswerPartialView.cshtml",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwKUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T22:52:48.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "Demo\\wwwroot\\js\\app.js",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "Demo\\wwwroot\\js\\app.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-21T22:41:03.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAEUDAAAAAAAAAAASwCgDAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:33:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:33:36.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKgDAAAAAAAAAAAYwMUDAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T22:07:47.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application View Model.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Models\\Application View Model.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Application View Model.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Models\\Application View Model.cs",
+              "RelativeToolTip": "Demo\\Models\\Application View Model.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:11:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\JobController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\JobController.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAIwFsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:44:16.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Models\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\JobViewModel.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Models\\JobViewModel.cs",
+              "RelativeToolTip": "Demo\\Models\\JobViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:37:13.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\user\\Downloads\\3EuniceWebCombine\\Demo\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:33:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:33:15.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAGECAAAAAAAAAAAYwHQCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T22:09:06.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAIwIMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:02:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\JobDetails.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\JobDetails.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\JobDetails.cshtml",
+              "RelativeToolTip": "Demo\\Views\\JobDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T22:00:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\JobSeekerActions\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\JobSeekerActions\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\JobSeekerActions\\Apply.cshtml",
+              "RelativeToolTip": "Demo\\Views\\JobSeekerActions\\Apply.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:59:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyApplications.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Applications\\MyApplications.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Applications\\MyApplications.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Applications\\MyApplications.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Applications\\MyApplications.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:59:22.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Applications\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Applications\\Details.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Applications\\Details.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Applications\\Details.cshtml",
+              "ViewState": "AgIAANQAAAAAAAAAAAAIwO4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:59:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\JobSeeker\\Search.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\JobSeeker\\Search.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\JobSeeker\\Search.cshtml",
+              "RelativeToolTip": "Demo\\Views\\JobSeeker\\Search.cshtml",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAIwI4BAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:59:06.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\JobSearchController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\JobSearchController.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\JobSearchController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\JobSearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:46:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_JobListTablePV.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Job\\_JobListTablePV.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Job\\_JobListTablePV.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Job\\_JobListTablePV.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Job\\_JobListTablePV.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:46:47.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JobSeekerController.cs",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\JobSeekerController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\JobSeekerController.cs",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Controllers\\JobSeekerController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\JobSeekerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:46:31.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Jobs.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__TARUMT_SEM_4_AMIT2014__WEB_AND_MOBILE_SYSTEMS_ASSIGNMENT_WEB_FINAL_CHECKUP__2__WEB_FINAL_CHECKUP_ASSIGNMENT_DEMO_DB.MDF/True/SqlTable/dbo.Jobs.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__TARUMT_SEM_4_AMIT2014__WEB_AND_MOBILE_SYSTEMS_ASSIGNMENT_WEB_FINAL_CHECKUP__2__WEB_FINAL_CHECKUP_ASSIGNMENT_DEMO_DB.MDF/True/SqlTable/dbo.Jobs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-21T21:37:58.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Job\\JobList.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Job\\JobList.cshtml",
+              "ToolTip": "C:\\Users\\czy05\\OneDrive - Tunku Abdul Rahman University College\\Assignment\\Y2S1\\Assignment 2209 0744\\Assignment\\Demo\\Views\\Job\\JobList.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Job\\JobList.cshtml",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAIwH4CAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:31:57.605Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 556,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
